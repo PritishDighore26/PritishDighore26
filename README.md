@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Pritish Dighore 👋</h1>
-  <h3>Software Engineer | Java Developer | Full Stack Developer</h3>
+  <h3>Software Engineer | Java Developer | React Developer | Full Stack Developer</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • 
