@@ -5,13 +5,13 @@
   <h3>📫 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/pritish-dighore-385066245/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB" target="_blank">
+  <a href="https://github.com/PritishDighore26" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://pritishdighore.netlify.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" height="45" alt="Portfolio"/>
   </a>
   <a href="mailto:pritishdighore@gmail.com">
@@ -51,10 +51,10 @@ Currently enhancing my skills through full-stack projects and open to opportunit
 ### 📫 Let's Connect
 - **Email:** pritishdighore@gmail.com  
 - **Phone:** +91 73851 83976  
-- **LinkedIn:** [Connect](YOUR_LINKEDIN)  
-- **Portfolio:** [View](YOUR_PORTFOLIO)  
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/pritish-dighore-385066245/)  
+- **Portfolio:** [View](https://pritishdighore.netlify.app/)  
 
 Always open to collaboration on interesting projects or full-stack opportunities! 🚀
 
 ---
-*Last updated: July 2026*
+*Last updated: Aug 2026*
